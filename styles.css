@@ -73,3 +73,21 @@ a {
   border-radius: 10px;
   margin: 0 auto;
 }
+
+.quote {
+  background: #e5e7eb;
+  padding: 80px 200px;
+  text-align: center;
+}
+
+.quote-text {
+  font-size: 24px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-author {
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: right;
+}
