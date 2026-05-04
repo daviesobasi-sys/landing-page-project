@@ -111,3 +111,9 @@ a {
   border-radius: 8px;
   font-weight: bold;
 }
+
+footer {
+    background-color: gray;
+    text-align: center;
+    padding: 20px 30px;
+}
